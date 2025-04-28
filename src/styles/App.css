@@ -3,7 +3,7 @@
     display: inline-block;
   }
   
-  .tooltiptext {
+  .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
     background-color: black;
